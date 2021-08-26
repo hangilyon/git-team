@@ -2,11 +2,8 @@ package main;
 
 import java.util.Scanner;
 import HanGilYong.TestHan;
-
 import Lee.TestLee;
-
 import jindongsu.TestDongsu;
-
 
 public class MainClass {
 	public static void main(String[] args) {
