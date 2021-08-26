@@ -13,9 +13,7 @@ public class MainClass {
 		Scanner input = new Scanner(System.in);
 		int num;
 		TestHan han = new TestHan();
-
 		TestLee lee = new TestLee();
-
 		TestDongsu jin = new TestDongsu();
 
 		while(true) {
@@ -25,15 +23,11 @@ public class MainClass {
 			case 1 : 
 				han.testhanfunc();
 				break;
-
 			case 2 : 	lee.testleefunc();
 				break;
-
-		
 			case 3 : 
-				jin.disp();
+				jin.disp(); jin.display();
 				break;
-
 			case 4 : break;
 			case 5 : break;
 			}
