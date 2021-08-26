@@ -19,7 +19,7 @@ public class MainClass {
 				break;
 			case 2 : break;
 			case 3 : 
-				jin.disp();
+				jin.disp(); jin.display();
 				break;
 			case 4 : break;
 			case 5 : break;
